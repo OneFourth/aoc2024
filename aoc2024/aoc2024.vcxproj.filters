@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Days">
+      <UniqueIdentifier>{62671e78-112c-4d97-bc9b-cacd6bba629e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="day01.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day02.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day03.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day04.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day05.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day06.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day07.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day08.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day09.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day10.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day11.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day12.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day13.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day14.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day15.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day16.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day17.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day18.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day19.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day20.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day21.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day22.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day23.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day24.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+    <ClCompile Include="day25.cpp">
+      <Filter>Source Files\Days</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="day01.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day02.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day03.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day04.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day05.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day06.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day07.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day08.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day09.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day10.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day11.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day12.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day13.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day14.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day15.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day16.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day17.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day18.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day19.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day20.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day21.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day22.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day23.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day24.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="day25.hpp">
+      <Filter>Source Files\Days</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
