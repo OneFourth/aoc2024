@@ -7,4 +7,7 @@ struct Day01 {
     void input(const std::string_view input);
     void part1() const;
     void part2() const;
+
+    std::vector<int> left;
+    std::vector<int> right;
 };
