@@ -2,12 +2,7 @@ import std;
 
 #include "day01.hpp"
 #include "log.hpp"
-
-int convert(std::string_view v) {
-    int output{};
-    std::from_chars(v.data(), v.data() + v.size(), output);
-    return output;
-}
+#include "convert.h"
 
 void Day01::input(const std::string_view input) {
     for (const auto s : std::ranges::views::split(input, '\n')) {
