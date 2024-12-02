@@ -135,6 +135,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="convert.cpp" />
     <ClCompile Include="day01.cpp" />
     <ClCompile Include="day02.cpp" />
     <ClCompile Include="day03.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="convert.h" />
     <ClInclude Include="day01.hpp" />
     <ClInclude Include="day02.hpp" />
     <ClInclude Include="day03.hpp" />

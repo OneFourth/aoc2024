@@ -99,6 +99,9 @@
     <ClCompile Include="day25.cpp">
       <Filter>Source Files\Days</Filter>
     </ClCompile>
+    <ClCompile Include="convert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="log.hpp">
@@ -178,6 +181,9 @@
     </ClInclude>
     <ClInclude Include="day25.hpp">
       <Filter>Source Files\Days</Filter>
+    </ClInclude>
+    <ClInclude Include="convert.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
