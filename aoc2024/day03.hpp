@@ -7,4 +7,6 @@ struct Day03 {
     void input(const std::string_view input);
     void part1() const;
     void part2() const;
+
+    std::string raw_instructions;
 };
