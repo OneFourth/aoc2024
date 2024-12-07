@@ -7,4 +7,9 @@ struct Day05 {
     void input(const std::string_view input);
     void part1() const;
     void part2() const;
+
+    std::vector<std::pair<int, int>> rules;
+    std::vector<std::vector<int>> updates;
+
+    bool is_valid(const std::vector<int>& update) const;
 };
